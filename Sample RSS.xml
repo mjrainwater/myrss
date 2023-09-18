@@ -1,0 +1,29 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Church At Briargate Sermons</title>
+        <link>https://www.churchatbriargate.org</link>
+        <language>en-US</language>
+        <itunes:author>Church At Briargate</itunes:author>
+        <description>Dr. Scott Bottoms, the Sr. Pastor of the Church At Briargate brings a weekly message of hope and freedom. </description>
+        <copyright>2009-2023 Church at Briargate</copyright>
+        <itunes:owner>
+            <itunes:name>Church At Briargate Admin</itunes:name>
+            <itunes:email>office@cabag.org</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://d1e14o2xvpi2m1.cloudfront.net/SERMONNET/audioimages/87b2ea31-7129-4b6f-899b-7b0aee9d039d/CAB_Stacked_FullColor.png"/>
+        <itunes:category text="Religion & Spirituality">
+            <itunes:category text="Christianity"/>  
+        </itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+        <item>
+            <itunes:title>A Beautiful Soul (8/6/23)</itunes:title>
+            <title>A Beautiful Soul (8/6/23)</title>
+            <description/>
+            <enclosure type="video/mpeg" url="https://sp.rmbl.ws/s8/2/O/a/v/v/Oavvl.aaa.rec.mp4" />
+            <link>https://sp.rmbl.ws/s8/2/O/a/v/v/Oavvl.aaa.rec.mp4</link>
+            <guid>https://sp.rmbl.ws/s8/2/O/a/v/v/Oavvl.aaa.rec.mp4</guid>
+            <itunes:explicit>false</itunes:explicit>
+            <pubDate>Sun, 6 Aug 2023 00:00:00 -0500</pubDate>
+        </item>
+    </channel>
+</rss>
